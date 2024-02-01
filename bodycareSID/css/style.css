@@ -41,12 +41,12 @@ p{
 
 /* style */
 form{
-    background-color: rgba(253, 253, 253, 0.599);
+    background: rgba(255, 255, 255, 0.38);
     max-width: 500px;
     padding: 40px;
     display: flex;
     flex-direction: column;
-    row-gap: 20px;
+    row-gap: 10px;
     margin: 30px;
 }
 
@@ -62,7 +62,7 @@ input[type='submit']{
 }
 .password img{
     position: absolute;
-    top: 40px;
+    top: 42px;
     right: 10px;
 }
 
